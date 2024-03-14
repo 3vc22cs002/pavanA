@@ -1,0 +1,6 @@
+#include<iostream.h>
+void main()
+{
+  printf("enter the no of elements");
+  getch();
+  }
